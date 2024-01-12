@@ -3,3 +3,4 @@ moviepy
 openai
 requests
 python-dotenv
+flask-cors

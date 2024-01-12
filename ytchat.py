@@ -11,6 +11,7 @@ load_dotenv('.env')
 api_key = os.getenv('OPENAI_API_KEY')
 
 
+
 client = OpenAI(api_key=api_key)
 
 # Set the API key from an environment variable for security
