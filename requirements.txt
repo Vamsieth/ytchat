@@ -4,3 +4,4 @@ openai
 requests
 python-dotenv
 flask-cors
+deepgram-sdk==3.*
